@@ -4,6 +4,7 @@ import { BrowserRouter } from 'react-router-dom';
 
 import App from './App';
 // Стартовый файл 
+// Текст для коммита
 ReactDOM.render(
   <BrowserRouter>
     <App />
